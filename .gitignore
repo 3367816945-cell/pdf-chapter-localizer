@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 中间产物：不进版本库
+*.csv
+pages.txt
+_raw/
+_temp/
+
+# 导出的图片与笔记
+*.png
+*.jpg
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
